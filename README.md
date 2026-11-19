@@ -17,7 +17,7 @@ Risco de crédito · Modelagem estatística · Produtos analíticos
 </p>
 
 <p align="center">
-  <img src="./assets/cat1.gif" width="500" alt="Gato descansando">
+  <img src="./assets/cat1.gif" width="250" alt="Gato descansando">
 </p>
 
 </div>
@@ -33,14 +33,14 @@ Em risco de crédito, desenvolvo o fluxo da definição da população e do targ
 Fora do trabalho, gosto de anime, viagens e gatos.
 
 <p align="center">
-  <img src="./assets/cat2.gif" width="68" loading="lazy" alt="Gato com um coração">
+  <img src="./assets/cat2.gif" width="80" loading="lazy" alt="Gato com um coração">
   <span><strong>Modelagem de risco · Análise estatística · Dashboards</strong></span>
 </p>
 
 ## 🧰 Ferramentas do dia a dia
 
 <p align="center">
-  <img src="./assets/cat3.gif" width="54" loading="lazy" alt="Gato branco">
+  <img src="./assets/cat3.gif" width="70" loading="lazy" alt="Gato branco">
   <strong>Estatística e programação</strong><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
@@ -49,7 +49,7 @@ Fora do trabalho, gosto de anime, viagens e gatos.
 </p>
 
 <p align="center">
-  <img src="./assets/cat4.gif" width="54" loading="lazy" alt="Gato curioso">
+  <img src="./assets/cat4.gif" width="70" loading="lazy" alt="Gato curioso">
   <strong>Engenharia e análise de dados</strong><br>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark">
@@ -57,7 +57,7 @@ Fora do trabalho, gosto de anime, viagens e gatos.
 </p>
 
 <p align="center">
-  <img src="./assets/cat5.gif" width="54" loading="lazy" alt="Gato se espreguiçando">
+  <img src="./assets/cat5.gif" width="70" loading="lazy" alt="Gato se espreguiçando">
   <strong>Modelagem e visualização</strong><br>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
   <img src="https://img.shields.io/badge/LightGBM-2E8B57?style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM">
@@ -69,7 +69,7 @@ Fora do trabalho, gosto de anime, viagens e gatos.
 ## 📊 GitHub em movimento
 
 <p align="center">
-  <img src="./assets/cat6.gif" width="64" loading="lazy" alt="Gatinho branco">
+  <img src="./assets/cat6.gif" width="150" loading="lazy" alt="Gatinho branco">
 </p>
 
 <p align="center">
@@ -89,13 +89,13 @@ Fora do trabalho, gosto de anime, viagens e gatos.
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <p align="center"><img src="./assets/cat7.gif" width="68" loading="lazy" alt="Gato branco em movimento"></p>
+      <p align="center"><img src="./assets/cat7.gif" width="100" loading="lazy" alt="Gato branco em movimento"></p>
       <h3><a href="https://github.com/RenanScavazzini/case_datarisk">Credit Risk Case</a></h3>
       <p>Modelagem de inadimplência da construção da população à política de crédito. Inclui engenharia de atributos, comparação de modelos e validação temporal.</p>
       <sub>Python · Pandas · LightGBM · Risco</sub>
     </td>
     <td width="50%" valign="top">
-      <p align="center"><img src="./assets/cat8.gif" width="68" loading="lazy" alt="Gato dançando"></p>
+      <p align="center"><img src="./assets/cat8.gif" width="100" loading="lazy" alt="Gato dançando"></p>
       <h3><a href="https://github.com/RenanScavazzini/model_supermarket">Model Supermarket</a></h3>
       <p>Dashboard de notas fiscais para analisar gastos, produtos e histórico de preços, com comparações entre supermercados e dados climáticos.</p>
       <sub>Python · Streamlit · Pandas · Plotly</sub>
@@ -103,13 +103,13 @@ Fora do trabalho, gosto de anime, viagens e gatos.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p align="center"><img src="./assets/cat9.gif" width="68" loading="lazy" alt="Gatinho curioso"></p>
+      <p align="center"><img src="./assets/cat9.gif" width="100" loading="lazy" alt="Gatinho curioso"></p>
       <h3><a href="https://github.com/RenanScavazzini/estudo_databricks">Bakehouse ML no Databricks</a></h3>
       <p>Estudo de regressão com Spark ML sobre transações de padaria, da engenharia de atributos à avaliação e ao registro do experimento no MLflow.</p>
       <sub>Databricks · PySpark · Spark ML · MLflow</sub>
     </td>
     <td width="50%" valign="top">
-      <p align="center"><img src="./assets/cat10.gif" width="68" loading="lazy" alt="Gato olhando para a câmera"></p>
+      <p align="center"><img src="./assets/cat10.gif" width="100" loading="lazy" alt="Gato olhando para a câmera"></p>
       <h3><a href="https://github.com/RenanScavazzini/model_instagram">Instagram Analytics</a></h3>
       <p>Pipeline Bronze, Silver e Gold para tratar exportações, acompanhar eventos e snapshots e apresentar métricas disponíveis em um dashboard.</p>
       <sub>Python · Pandas · Parquet · Dashboard</sub>
