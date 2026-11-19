@@ -16,7 +16,9 @@ Risco de crédito · Modelagem estatística · Produtos analíticos
   <img src="https://komarev.com/ghpvc/?username=RenanScavazzini&style=for-the-badge&color=e6a477" alt="Visualizações do perfil">
 </p>
 
-<img src="./assets/cat-coding-punch.gif" width="260" alt="Gato trabalhando no computador e dando um soco">
+<p align="center">
+  <img src="./assets/cat1.gif" width="150" loading="lazy" alt="Gato descansando">
+</p>
 
 </div>
 
@@ -31,7 +33,6 @@ Em risco de crédito, desenvolvo o fluxo da definição da população e do targ
 Fora do trabalho, gosto de anime, viagens e gatos.
 
 <p align="center">
-  <img src="./assets/cat1.gif" width="68" loading="lazy" alt="Gato descansando">
   <img src="./assets/cat2.gif" width="68" loading="lazy" alt="Gato com um coração">
   <span><strong>Modelagem de risco · Análise estatística · Dashboards</strong></span>
 </p>
