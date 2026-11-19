@@ -17,7 +17,7 @@ Risco de crédito · Modelagem estatística · Produtos analíticos
 </p>
 
 <p align="center">
-  <img src="./assets/cat1.gif" width="150" loading="lazy" alt="Gato descansando">
+  <img src="./assets/cat1.gif" width="500" alt="Gato descansando">
 </p>
 
 </div>
